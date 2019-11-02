@@ -960,16 +960,16 @@ _Note: It is often also necessary to create test cases for non-functional requir
 [[Glossary]]
 == Glossary
 
-The glossary contains a list of all words and phrases used in this project, which require an description to avoid misunderstandings between stakeholders.
-Please also consult the list of <<actors, actors>>, the list of <<Stakeholders, stakeholders>> and the <<classes_enumerations, domain model>> for further definitions of terms.
+Das Glossar enthält eine Liste aller in diesem Projekt verwendeten Wörter und Ausdrücke, für die eine Beschreibung erforderlich ist, um Missverständnisse zwischen den Beteiligten zu vermeiden.
+Weitere Definitionen von Begriffen finden Sie auch in der Liste der Akteure, Akteure, Stakeholder und im Domänenmodell.
 
-_Note: Some terms can be used regularily during a project, while all involved stakeholders think that the meaning is obvious. This not necessarily the case though, as different domains of expertise can mean different levels of knowledge or simply a different understanding of a term._ +
-_An example from a previous year of this course:_ +
-_Imagine a shift schedule, where every shift is occupied by 3 different kinds of staff._
-_The manager responsible for the schedule would use the term "shift" to describe the whole timeslot with all 3 involved staff members (e.g. "shift X is gonna be hard for you guys, prepare yourselves")._
-_One of the staff members occupying one of these slots would use the term "shift" to describe his one slot (of the three) in one timeslot of the day (e.g. "My shift this time puts me in touch with the customers, while the other two can relax in the warehouse")._ +
-_While this is common sense and does not really affect communication in the real world, it becomes an issue if you have to design a system which represents such a shift schedule. You could - in this case - use "shift" as in the understanding of the manager and use "slot" or "cell" to model what the staff member meant._
-_In such cases, you have to force all stakeholders to use this common wording in order to avoid misunderstandings._
+_Hinweis: Einige Begriffe können während eines Projekts regelmäßig verwendet werden, während alle Beteiligten der Ansicht sind, dass die Bedeutung offensichtlich ist. Dies ist jedoch nicht unbedingt der Fall, da unterschiedliche Fachgebiete unterschiedliche Wissensstände oder einfach ein unterschiedliches Verständnis eines Begriffs bedeuten können
+_Ein Beispiel aus einem früheren Jahr dieses Kurses: _ +
+_Stellen Sie sich einen Schichtplan vor, in dem jede Schicht mit 3 verschiedenen Mitarbeitern besetzt ist._
+_Der für den Zeitplan verantwortliche Manager würde den Begriff "Schicht" verwenden, um die gesamte Zeitspanne mit allen drei beteiligten Mitarbeitern zu beschreiben (z. B. "Schicht X wird für euch schwer, bereitet euch vor") ._
+_Ein Mitarbeiter, der einen dieser Zeitnischen belegt, würde den Begriff "Schicht" verwenden, um seinen einen Zeitnischen (von den dreien) in einem Zeitschlitz des Tages zu beschreiben (z. B. "Meine Schicht bringt mich diesmal mit den Kunden in Kontakt, während die die beiden anderen können sich im lager entspannen ") ._ +
+_Während dies gesunder Menschenverstand ist und die Kommunikation in der realen Welt nicht wirklich beeinträchtigt, wird es zu einem Problem, wenn Sie ein System entwerfen müssen, das einen solchen Schichtplan darstellt. Sie könnten in diesem Fall "shift" wie im Verständnis des Managers verwenden und "slot" oder "cell" verwenden, um die Bedeutung des Mitarbeiters zu modellieren.
+_In solchen Fällen müssen Sie alle Beteiligten zwingen, diesen gemeinsamen Wortlaut zu verwenden, um Missverständnisse zu vermeiden ._
 
 :Client_Description: Synonym for the customer of this project ({company_name})
 :domain_ref: See <<classes_enumerations, domain overview>>
