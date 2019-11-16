@@ -333,7 +333,7 @@ image:diagrams/images/seq_catalog.svg[sequence diagram - catalog]
 image:diagrams/images/seq_customer.svg[sequence diagram - customer]
 
 === Inventory
-image:diagrams/images/sd__Inventory__Inventory.svg[sequence diagram - inventory]
+image:diagrams/images/sd__Inventory.svg[sequence diagram - inventory]
 
 === Order
 image:diagrams/images/sd__Order__Order.svg[sequence diagram - order]
